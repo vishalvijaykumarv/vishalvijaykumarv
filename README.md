@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishalvijaykumarv
-- 👀 I’m interested in Aws & Python 
-- 🌱 I’m currently learning Jenkins
-- 💞️ I’m looking to collaborate on python automation scripting 
+- 👀 I’m interested with Devops
+- 🌱 I’m currently learning CICD workflows with jenkins & terraform
+- 💞️ I’m looking to collaborate on CICD workflows integrations
 - 📫 reach me @ linkedin.com/in/vishalvijaykumarv/
 
 <!---
