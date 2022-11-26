@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishalvijaykumarv
-- 👀 I’m interested with Devops
-- 🌱 I’m currently learning CICD workflows with jenkins & terraform
-- 💞️ I’m looking to collaborate on CICD workflows integrations
+- 👀 I’m interested with Devops | MERN-Stack | Cyber-security
+- 🌱 I’m currently Working with Devops
+- 💞️ I’m looking to collaborate on Cyber-security
 - 📫 reach me @ linkedin.com/in/vishalvijaykumarv/
 
 <!---
