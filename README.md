@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vishalvijaykumarv
-- 👀 I’m interested with Devops | MERN-Stack | Cyber-security
-- 🌱 I’m currently Working with Devops
-- 💞️ I’m looking to collaborate on Cyber-security
+- 👀 Interested Topics <> Devops | MERN | CyberSecurity </>
+- 🌱 I’m Currently Working as a Devops Engineer
 - 📫 reach me @ linkedin.com/in/vishalvijaykumarv/
 
 <!---
