@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishalvijaykumarv
-- 👀 Interested Topics <> Devops | MERN | CyberSecurity </>
+- 👀 Interested Topics <> Devops | React & Django | CyberSecurity </>
 - 🌱 I’m Currently Working as a Devops Engineer
 - 📫 reach me @ linkedin.com/in/vishalvijaykumarv/
 
