@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm Currently working on Devops<br>I'm currently learning Full stack <br>Ask me about Docker, Aws services, CICD pipelines, Data Engineering
+🧙‍♂️ Vishal Vijayakumar 
+ 👨🏼‍💻  Working as a Devops engineer@Xorstack <br> 🏋🏼‍♀️ Upgrading myself into Full stack developer (MERN , DJANGO) <br>🗣 Talk me about Cloud Services, CICD Pipelines, Python Automation Scripting & Data Engineering
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishalvijayakumarv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalvijaykumarv) 
