@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏻‍💻 About Me:
 🧙‍♂️ Vishal Vijayakumar <br> 👨🏼‍💻 IT Professional <br> 🏋🏼‍♀️ Cyber_Security | Full_stack | DevOps | Automation <br>
 
 # 💻 Tech Stack:
